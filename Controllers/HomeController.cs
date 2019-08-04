@@ -53,6 +53,7 @@ namespace starter_dotnet_core.Controllers
         }
 
         [Route("hello")]
+        [HttpPost]
         public IActionResult Hello()
         {
             var response = new VoiceResponse();
