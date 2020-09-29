@@ -6,6 +6,9 @@ As members of the .Net guild, you will be working through the challenges of Twil
 
 We assume that before you begin, you will have [.Net Core](https://dotnet.microsoft.com/download) installed on your system and available at the command line.
 
+At the time of writing - the following .Net Core framework version is required:
+    - 3.1.x
+
 Before you can run this project, you will need to set three system environment variables.  These are:
 
 * `TWILIO_ACCOUNT_SID` : Your Twilio "account SID" - it's like your username for the Twilio API.  This and the auth token (below) can be found [in the console](https://www.twilio.com/console).
