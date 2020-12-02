@@ -35,7 +35,7 @@ namespace starter_dotnet_core
                 app.UseHsts();
             }
 
-            app.UseHttpsRedirection();
+            // app.UseHttpsRedirection(); // TwilioQuest expects to send via HTTP.
             app.UseStaticFiles();
 
             app.UseRouting();
