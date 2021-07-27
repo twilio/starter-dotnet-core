@@ -33,7 +33,7 @@ On Windows, the easiest way to set permanent environment variables (as of Window
 
 [Download the project source code directly](https://github.com/twilio/starter-dotnet-core/archive/master.zip) or [clone the repository on GitHub](https://github.com/twilio/starter-dotnet-core).  Navigate to the folder with the source code on your machine in a terminal window.
 
-Now, you should be able to launch the application.  From your terminal, run `dotnet run`.  This should launch your sinatra application on port 5000 - [visit that URL on your local host](http://localhost:5000/).  Enter your mobile number in the fields provided, and test both SMS text messages and phone calls being sent to the mobile number you provide.  The web UI should look something like this:
+Now, you should be able to launch the application.  From your terminal, run `dotnet run`.  This should launch the application on port 5000 - [visit that URL on your local host](http://localhost:5000/).  Enter your mobile number in the fields provided, and test both SMS text messages and phone calls being sent to the mobile number you provide.  The web UI should look something like this:
 
 ![.Net guild](https://raw.githubusercontent.com/twilio/starter-dotnet-core/master/wwwroot/dotnet_shield256.png)
 
