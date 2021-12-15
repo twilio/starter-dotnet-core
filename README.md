@@ -1,6 +1,6 @@
 # Welcome to the .NET Guild!
 
-As members of the .NET guild, you will be working through the challenges of TwilioQuest using the C# programming language.  This project is pre-configured to do some interesting Twilio stuff using C# and the [ASP.NNET Core](https://docs.microsoft.com/en-us/aspnet/core/) web framework.
+As members of the .NET guild, you will be working through the challenges of TwilioQuest using the C# programming language.  This project is pre-configured to do some interesting Twilio stuff using C# and the [ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/) web framework.
 
 ## Setting Up
 
