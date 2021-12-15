@@ -1,12 +1,12 @@
 # Welcome to the .NET Guild!
 
-As members of the .NET guild, you will be working through the challenges of TwilioQuest using the C# programming language.  This project is pre-configured to do some interesting Twilio stuff using C# and the [Asp .Net Core](https://docs.microsoft.com/en-us/aspnet/core/) web framework.
+As members of the .NET guild, you will be working through the challenges of TwilioQuest using the C# programming language.  This project is pre-configured to do some interesting Twilio stuff using C# and the [ASP.NNET Core](https://docs.microsoft.com/en-us/aspnet/core/) web framework.
 
 ## Setting Up
 
-We assume that before you begin, you will have [.Net Core](https://dotnet.microsoft.com/download) installed on your system and available at the command line.
+We assume that before you begin, you will have [.NET Core](https://dotnet.microsoft.com/download) installed on your system and available at the command line.
 
-At the time of writing - the following .Net Core framework version is required:
+At the time of writing - the following .NET Core framework version is required:
     - 3.1.x
 
 Before you can run this project, you will need to set three system environment variables.  These are:
@@ -35,7 +35,7 @@ On Windows, the easiest way to set permanent environment variables (as of Window
 
 Now, you should be able to launch the application.  From your terminal, run `dotnet run`.  This should launch your sinatra application on port 5000 - [visit that URL on your local host](http://localhost:5000/).  Enter your mobile number in the fields provided, and test both SMS text messages and phone calls being sent to the mobile number you provide.  The web UI should look something like this:
 
-![.Net guild](https://raw.githubusercontent.com/twilio/starter-dotnet-core/master/wwwroot/dotnet_shield256.png)
+![.NET guild](https://raw.githubusercontent.com/twilio/starter-dotnet-core/master/wwwroot/dotnet_shield256.png)
 
 ## Begin Questing!
 This is but your first step into a larger world.  [Return to TwilioQuest](http://quest.twilio.com) to continue your adventure.  Huzzah!
